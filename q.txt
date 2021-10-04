@@ -1,0 +1,15 @@
+Design and develop internship application form. Each applicant has to register to the portal. After
+the successfull registration, he/she can login to the portal through his/her login credentials and fill
+all the form details. Each text field in the form should be validated using Javascript. Your function
+code should also display the number of applicants applied for the internship.
+Text fields required are :
+First Name, Last Name
+Date of Birth
+Phone number
+Email Id
+Address
+Qualification
+CGPA
+The login form must validate the login credentials of each applicant.
+Minimum number of applicants must be three.
+Note : Qualification can be multivalued
